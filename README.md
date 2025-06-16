@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/your-demo-link"><img src="https://img.shields.io/badge/Demo-Watch%20Now-blue?style=for-the-badge&logo=linkedin" alt="Demo Video"/></a>
-  <a href="https://github.com/vishwab07/AI-Document-Query"><img src="https://img.shields.io/github/stars/vishwab07/AI-Document-Query?style=for-the-badge" alt="Stars"/></a>
 </p>
 
 ---
@@ -14,7 +13,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://your-image-link.com/preview.png" width="700" alt="AI PDF Chat Preview" />
+  <img src="Screenshot 2025-06-16 210108.png" width="700" alt="AI PDF Chat Preview" />
   <br/>
   <i>*Beautiful UI with dark mode, floating upload button, and chat interface*</i>
 </p>
